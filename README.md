@@ -1,1 +1,2 @@
 # html_layout_bootstrap5
+I have to create a website homepage that should be very interactive the website homepage as follow like header banner page and about page services and contact us page then footer the website design should be very good and up to the mark using html and css js and bootstrap 5.3 design should be very impressive also the website is like gaming website that I have created a game and I'm building that website 
